@@ -10,7 +10,7 @@ things started. This can even be just empty files with the right names in the
 right folders! Then in small steps you add more code so that each little step
 _works_, is meaningful for the user, and is a little closer to the end goal.
 
-This strategy is sooooo important to learn because **programming is hard**. All
+This strategy is super important to learn because **programming is hard**. All
 developers (even your coaches!) make mistakes all the time. The best way to
 manage mistakes is to work in small, understandable steps and making sure that
 each step works before moving on.
@@ -39,51 +39,25 @@ natural part of your development process.
 
 ## Learning Objectives
 
-<details>
-<summary>Priorities: 🥚, 🐣, 🐥, 🐔 (click to learn more)</summary>
-<br>
-
-There is a lot to learn in this repository. If you can't master all the material
-at once, that's expected! Anything you don't master now will always be waiting
-for you to review when you need it. These 4 emoji's will help you prioritize
-your study time and to measure your progress:
-
-- 🥚: Understanding this material is required, it covers the base skills you'll
-  need for this module and the next. You do not need to finish all of them but
-  should feel comfortable that you could with enough time.
-- 🐣: You have started all of these exercises and feel you could complete them
-  all if you just had more time. It may not be easy for you but with effort you
-  can make it through.
-- 🐥: You have studied the examples and started some exercises if you had time.
-  You should have a big-picture understanding of these concepts/skills, but may
-  not be confident completing the exercises.
-- 🐔: These concepts or skills are not necessary but are related to this module.
-  If you are finished with 🥚, 🐣 and 🐥 you can use the 🐔 exercises to push
-  yourself without getting distracted from the module's main objectives.
-
----
-
-</details>
-
-## [0. Developing HTML & CSS](./0-developing-html-and-css)
+## [1. Developing HTML & CSS](./1-developing-html-and-css/)
 
 Practice with the skills, tools, and workflows you will need to efficiently
 develop websites written with HTML & CSS.
 
-- 🥚 **VSCode**: you can ...
+- **VSCode**: you can ...
   - [ ] use the _LiveServer extension_ to launch an HTML page in the browser
   - [ ] use autocomplete to begin a new HTML document, create new tags, and much
         more
   - [ ] use the _HTML CSS Support_ and _IntelliSense fo CSS class names_
         extensions to make writing HTML & CSS more efficient
-- 🥚 **Formatting HTML & CSS**: You can ...
+- **Formatting HTML & CSS**: You can ...
   - [ ] use VSCode configurations to format your code on save
   - [ ] use `npm run format` to format all the code in your repository
-- [ ] 🥚 **Linting CSS**: You can use the `npm run lint:css` script to find
+- [ ] **Linting CSS**: You can use the `npm run lint:css` script to find
       mistakes in your CSS, and you can fix the mistakes.
-- [ ] 🥚 **Validating HTML**: You can use the `npm run validate:html` script to
+- [ ] **Validating HTML**: You can use the `npm run validate:html` script to
       find mistakes in your CSS, and you can fix the mistakes.
-- 🥚 **Browser Developer Tools**: You can ...
+- **Browser Developer Tools**: You can ...
   - [ ] inspect the source code of a web page using the Sources tab
   - [ ] find any part of the web page in the Elements tab of your Dev Tools DOM
         inspector
@@ -91,17 +65,17 @@ develop websites written with HTML & CSS.
   - [ ] make temporary changes in a web page from the Elements tab to see how
         they will look
 
-## [1. Following Plans](./1-following-plans)
+## [2. Following Plans](./2-following-plans/)
 
 Practice working together in a group to build small websites in incremental
 steps according to a plan. You will be given final code, a detailed plan to
 rebuild it, and will need to work as a group following the processes in
 [Planning and Collaborating](https://github.com/HackYourFutureBelgium/planning-and-collaborating).
 
-- [ ] 🥚 **Project Definition and Scope**: As a group, you can agree on what you
+- [ ] **Project Definition and Scope**: As a group, you can agree on what you
       are trying to build, and can clearly describe the project using a README
       and a repository description.
-- 🥚 **Project Constraints**: As a group you can define project constraints by
+- **Project Constraints**: As a group you can define project constraints by
   discussing your strengths, weaknesses and context. You can set these types of
   constraints:
   - [ ] _External_: constraints that come from outside your group
@@ -109,59 +83,59 @@ rebuild it, and will need to work as a group following the processes in
         but your group did not decide to have.
   - [ ] _Internal, Voluntary_: constraints your group decides on to improve the
         quality of your development process and final software.
-- [ ] 🥚 **Communication Plans**: You can work with your group mates to agree on
-      a communication plan to follow during development.
-- [ ] 🥚 **Communicating Challenges**: During development you can discuss with
-      your group when ...
+- [ ] **Communication Plans**: You can work with your group mates to agree on a
+      communication plan to follow during development.
+- [ ] **Communicating Challenges**: During development you can discuss with your
+      group when ...
   - you are blocked and need help the agreed channels of communication.
   - your schedule or availability changes
   - you are having trouble getting along with each other
-- [ ] 🥚 **Using a Backlog**: You can develop from a backlog of features
-      organized by priority:
+- [ ] **Using a Backlog**: You can develop from a backlog of features organized
+      by priority:
   - _must-have_
   - _should-have_
   - _could-have_
-- [ ] 🥚 **Follow a Development Strategies**: You can follow a development
-      strategy to understand the code required for _must-have_ user stories.
-- [ ] 🥚 **Create Issues From a Dev Strategy**: You can create issues for user
+- [ ] **Follow a Development Strategies**: You can follow a development strategy
+      to understand the code required for _must-have_ user stories.
+- [ ] **Create Issues From a Dev Strategy**: You can create issues for user
       stories in your project based on the development strategy.
-- 🥚 **Retrospective**: Your group can complete a retrospective to ...
+- **Retrospective**: Your group can complete a retrospective to ...
   - [ ] assess how well you worked as a group
   - [ ] find ways to improve in the next project
   - [ ] compare your plan to the reality of developing your website
-- 🐣 **Claiming and Completing Issues**: You can claim issues from the _TODO_
+- **Claiming and Completing Issues**: You can claim issues from the _TODO_
   column of a project board and ...
   - [ ] track your progress with the project board
   - [ ] develop your code locally on a separate branch
   - [ ] send a PR that passes CI checks and meets the requirements
-- [ ] 🐣 **Code Review**: You can both review a group mate's PR, and
-      productively participate in a review of your own code.
-- [ ] 🐣 **Match a Design & Acceptance Criteria**: When developing your tasks,
-      you can write code that matches the project's Wireframe and meets your
-      issue's Acceptance Criteria.
+- [ ] **Code Review**: You can both review a group mate's PR, and productively
+      participate in a review of your own code.
+- [ ] **Match a Design & Acceptance Criteria**: When developing your tasks, you
+      can write code that matches the project's Wireframe and meets your issue's
+      Acceptance Criteria.
 
-## [2. Writing Plans](./2-writing-plans)
+## [3. Writing Plans](./3-adapting-plans/)
 
 Practicing writing your own plans as a group. You will be given _only_ the final
 code for HTML/CSS web pages, your group will need write a detailed plan for
 rebuilding the website in small steps.
 
-- [ ] 🥚 **Write User Personas**: As a group you can describing your site's
-      users with User Personas, and you can use the personas to plan your
-      website from the user's perspective.
-- [ ] 🥚 **Write User Stories**: Given a working web page, you can describe it
-      with user stories and acceptance criteria for each user story.
-- [ ] 🐣 **Write a Backlog**: After listing all the user stories for a web page,
+- [ ] **Write User Personas**: As a group you can describing your site's users
+      with User Personas, and you can use the personas to plan your website from
+      the user's perspective.
+- [ ] **Write User Stories**: Given a working web page, you can describe it with
+      user stories and acceptance criteria for each user story.
+- [ ] **Write a Backlog**: After listing all the user stories for a web page,
       you can organize them into a Backlog by priority: _must-have_,
       _should-have_ and _could-have_
-- [ ] 🐣 **Create a Prioritized Design**: Using your backlog and the original
-      site as a guide, you can create a Wireframe of the site your group will
-      build. You can use different colors and comments to indicate a priority
-      for each component in the Wireframe.
-- [ ] 🐣 **Write a Development Strategies**: You can translate your Wireframe
-      and Backlog into a Development Strategy for the _must-have_ user stories.
+- [ ] **Create a Prioritized Design**: Using your backlog and the original site
+      as a guide, you can create a Wireframe of the site your group will build.
+      You can use different colors and comments to indicate a priority for each
+      component in the Wireframe.
+- [ ] **Write a Development Strategies**: You can translate your Wireframe and
+      Backlog into a Development Strategy for the _must-have_ user stories.
 
-## [3. Adapting Plans](./3-adapting-plans)
+## [4. Adapting Plans](./4-adapting-plans/)
 
 Even the best plans are not perfect, it's not possible to know everything ahead
 of time! You may be able to plan everything ahead of time when the web pages you
@@ -175,12 +149,12 @@ make an initial plan, but the plan will change! Practice having regular meetings
 with your group to review the website's progress, review your plan, and make any
 changes in the plan that are necessary to keep the project on schedule.
 
-- [ ] 🐣 **Adjusting the Backlog**: As a group you can agree to changes in the
+- [ ] **Adjusting the Backlog**: As a group you can agree to changes in the
       backlog when necessary.
-- [ ] 🐣 **Adjusting the Design**: As a group you can agree on changes to the
+- [ ] **Adjusting the Design**: As a group you can agree on changes to the
       design during the development process when it becomes clear your old
       design needs updating.
-- [ ] 🐣 **Updating the Project Board**: You can manage the project board by
+- [ ] **Updating the Project Board**: You can manage the project board by
       adding, removing or updating issues when necessary. This includes changing
       labels, milestones, or assignees when necessary.
 
@@ -237,9 +211,9 @@ These 4 columns may be helpful:
 
 1. Clone this repository:
    - using SSH:
-     `git clone --depth 1 git@github.com:HackYourFutureBelgium/agile-development.git`
+     `git clone --depth 1 git@github.com:HackYourFutureBelgium/bf-agile-development.git`
 2. navigate to the cloned repository
-   - `cd agile-development`
+   - `cd bf-agile-development`
 3. Install dependencies:
    - `npm install`
 
@@ -311,3 +285,5 @@ in this repsitory using
 </details>
 
 [TOP](#agile-development)
+
+## Class recording

@@ -71,7 +71,8 @@
 
 > practice using [Responsively](https://responsively.app)
 
-- FreeCodeCamp, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn),
+- FreeCodeCamp, Responsive Web Design:
+  [exercises](https://www.freecodecamp.org/learn),
   [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [Traversy - HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [Traversy - CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
@@ -110,22 +111,3 @@
 - [From Persona to User Stories](https://www.romanpichler.com/blog/personas-epics-user-stories/)
 - [User stories 101](https://www.mountaingoatsoftware.com/agile/user-stories)
 - [10 tips for writing good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
-
-## Class Recordings
-
-> - HYF modules are often updated, recordings from past classes may not match
->   this gitbook
-> - When sending a PR's with recording links please ...
->   - Indicate which class you were teaching
->   - Which week it was (if the module is more than 1 week)
->   - a helpful title or description
-
-### [Lab-Antwerp1](https://github.com/lab-antwerp-1/home)
-
-\| Tiago, Tamer, Samir, Bermarte, Mame & Evan
-
-- week 1: [part1](https://youtu.be/hX2VN1l2Xfk),
-  [part2](https://youtu.be/cLLkvs5v7lM)
-- week 2: [part1](https://youtu.be/ELHBsjdmngE),
-  [part2](https://youtu.be/u6h1kQYLxMk)
-- week 3 : [part 1](https://youtu.be/RYk9cVhgCY4)
