@@ -210,8 +210,8 @@ These 4 columns may be helpful:
 > installed on your computer to study this material
 
 1. Clone this repository:
-   - using SSH:
-     `git clone --depth 1 git@github.com:HackYourFutureBelgium/bf-agile-development.git`
+   - using HTTPS:
+     `git clone https://github.com/HackYourFutureBelgium/bf-agile-development.git`
 2. navigate to the cloned repository
    - `cd bf-agile-development`
 3. Install dependencies:
