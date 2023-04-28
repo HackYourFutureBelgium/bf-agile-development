@@ -114,7 +114,7 @@ rebuild it, and will need to work as a group following the processes in
       can write code that matches the project's Wireframe and meets your issue's
       Acceptance Criteria.
 
-## [3. Writing Plans](./3-adapting-plans/)
+## [3. Writing Plans](./3-writing-plans/)
 
 Practicing writing your own plans as a group. You will be given _only_ the final
 code for HTML/CSS web pages, your group will need write a detailed plan for
