@@ -17,6 +17,8 @@ be the most important deliverable!
 
 ![Agile](../assets/iterating-with-sprints.png)
 
+## Projects
+
 1. [All about trees](../deliverables/all-about-trees/README.md)
 
 2. [Loruki](../deliverables/loruki-rebuild.md)
