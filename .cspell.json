@@ -33,7 +33,8 @@
     "mmtuts",
     "Fribly",
     "Interneting",
-    "Ponomarev"
+    "Ponomarev",
+    "semrush"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }

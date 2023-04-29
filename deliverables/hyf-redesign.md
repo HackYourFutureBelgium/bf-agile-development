@@ -35,7 +35,7 @@ When writing your code pay special attention to:
 Copy-paste this checklist into a new _deliverables_ issue and move your issue to
 the project board, your issue should have:
 
-- labels:`group`, `deliverable`
+- labels:`group`, `deliverable`, `week-2`
 - milestone: Agile Development
 
 ```md
