@@ -17,7 +17,7 @@ Later you’ll get the chance to be creative and plan full websites from scratch
 For now you should just focus on learning the workflows and processes so you’re
 more free to be creative in the future.
 
-- labels:`group`, `deliverable`
+- labels:`group`, `deliverable` and `week-1`
 - milestone: Agile Development
 
 ```markdown
