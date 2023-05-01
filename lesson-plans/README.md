@@ -15,6 +15,7 @@ project is the retrospective, it's when you learn from your mistakes and make
 better plans for the future During this module, your group's retrospective will
 be the most important deliverable!
 
+![Agile vs waterfall](../assets/agile-vs-waterfall.jpeg)
 ![Agile](../assets/iterating-with-sprints.png)
 
 ## Projects
@@ -69,3 +70,6 @@ be the most important deliverable!
     - a retrospective is meant for looking back at how the project went and
       learning what to do differently next time. An incomplete project with a
       great retrospective is still a success.
+
+NOTE: All these documents are living documents, which means they can be modified
+or changed .
