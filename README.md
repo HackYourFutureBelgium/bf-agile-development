@@ -287,3 +287,6 @@ in this repsitory using
 [TOP](#agile-development)
 
 ## Class recording
+
+- Day 1 : [part 1](https://youtu.be/Vy1BLdDtgzU),
+  [part 2](https://youtu.be/wk4hwEjfi0g)
