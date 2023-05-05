@@ -288,5 +288,11 @@ in this repsitory using
 
 ## Class recording
 
+<details>
+<summary>expand/collapse</summary>
+<br>
+
 - Day 1 : [part 1](https://youtu.be/Vy1BLdDtgzU),
   [part 2](https://youtu.be/wk4hwEjfi0g)
+
+</details>
