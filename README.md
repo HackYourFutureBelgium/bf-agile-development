@@ -295,4 +295,6 @@ in this repsitory using
 - Day 1 : [part 1](https://youtu.be/Vy1BLdDtgzU),
   [part 2](https://youtu.be/wk4hwEjfi0g)
 
+- Day 10 : [part 1](https://youtu.be/ltMrOfRN3dM)
+
 </details>
