@@ -292,9 +292,6 @@ in this repsitory using
 <summary>expand/collapse</summary>
 <br>
 
-- Day 1 : [part 1](https://youtu.be/Vy1BLdDtgzU),
-  [part 2](https://youtu.be/wk4hwEjfi0g)
-
-- Day 10 : [part 1](https://youtu.be/ltMrOfRN3dM)
+- [Recording 1](https://youtu.be/nLXcf45Lzh4)
 
 </details>
