@@ -285,13 +285,3 @@ in this repsitory using
 </details>
 
 [TOP](#agile-development)
-
-## Class recording
-
-<details>
-<summary>expand/collapse</summary>
-<br>
-
-- [Recording 1](https://youtu.be/nLXcf45Lzh4)
-
-</details>
